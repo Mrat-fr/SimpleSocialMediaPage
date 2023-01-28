@@ -1,0 +1,72 @@
+footer {
+width: 100%;
+white-space: nowrap;
+line-height: 60px;
+background-color: rgb(190, 194, 255);
+position: absolute;
+bottom: 0;
+margin-top: 10px;
+}
+
+body{
+    min-height: 100vh;
+    position: relative;
+}
+main{
+    padding-bottom: 2rms;
+}
+
+img {
+    height: 200px;
+    width: 200px;
+}
+
+.Avatar {
+    height: 200px;
+    width: 200px;
+    border-radius: 50%;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: -110px;
+}
+
+.Posts{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    height: 300px;
+    width: 300px;
+}
+.uPosts{
+    margin: 10px;
+    height: 210px;
+    width: 210px;
+}
+.col{
+    background-color: rgb(233, 232, 232);
+}
+
+
+.col-4{
+    margin-left: 20px;
+    background-color: rgb(214, 214, 214);
+}
+.N{
+    background-color: rgb(239, 239, 255);
+    width: 50%;
+    height: 70px;
+    padding-top: 2px;
+    padding-left: 5px;
+    margin-top: -155px;
+}
+
+.DE{
+    background-color: rgb(239, 239, 255);
+    width: 50%;
+    height: 70px;
+    padding-top: 5px;
+    padding-left: 5px;
+    margin-top: -155px;
+    margin-left: 50%;
+}
